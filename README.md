@@ -6,9 +6,6 @@ Hi there! Im a MERN Stack Developer with a passion for creating efficient and sc
 - 💬 Ask me about anything related to MERN Stack Development, Next.js, or web development in general.
 - 😄 Pronouns: He/Him
 
-## My Porfolio
-- [MR. ZAIN](https://mrzain.netlify.app)
-
 ## Experience
 - 💼 2+ years of experience in MERN Stack Development
 - 🚀 Graduated from GC University Faisalabad in 2025
@@ -17,7 +14,7 @@ Hi there! Im a MERN Stack Developer with a passion for creating efficient and sc
 - **Frontend:** HTML, CSS, JavaScript, React, Next.js
 - **Backend:** Node.js, Express.js, Next.js
 - **Database:** MongoDB, Supabase
-- **Other Technologies:** Supabase, Authentication, Rest APIs,      Tailwind CSS, Bootstrap.
+- **Other Technologies:** Supabase, Authentication, Rest APIs, Tailwind CSS, Bootstrap.
 
 ## Projects
 - [🍿 Netflix-Clone](https://mrzain-netflix.vercel.app/sign-in)
@@ -38,10 +35,9 @@ Faisalabad Punjab, Pakistan
 ## 🔗 Contacts
 Feel free to reach out to me through any of the following:
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-slay?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
 
-![Email](https://img.shields.io/badge/Mails-white?style=for-the-badge&logo=gmail&logoColor=red) 
-rr0900890@gmail.com and ranazain3431@gmail.com
+![Email](https://img.shields.io/badge/-white?style=for-the-badge&logo=gmail&logoColor=red)  rr0900890@gmail.com and ranazain3431@gmail.com
 
 
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mr-zain-34457b259)
@@ -49,10 +45,11 @@ rr0900890@gmail.com and ranazain3431@gmail.com
 
 [![Facebook](https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100074734494279)
 
+
 [![Whatsapp](https://img.shields.io/badge/whatsapp-lightgreen?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923032977683)
 
-[![Telephone](https://img.shields.io/badge/telephone-lightgreen?style=for-the-badge&logo=telephone&logoColor=white)](tel:+923032977683)
 
+![Telephone](https://img.shields.io/badge/Tel-lightgreen?style=for-the-badge&logo=phone&logoColor=white)  +923032977683
 
 
 ## Get in Touch
