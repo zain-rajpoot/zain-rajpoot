@@ -35,7 +35,7 @@ Faisalabad Punjab, Pakistan
 ## 🔗 Contacts
 Feel free to reach out to me through any of the following:
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-slay?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mrzain.netlify.app/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-slay?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mrzain.vercel.app)
 
 ![Email](https://img.shields.io/badge/-white?style=for-the-badge&logo=gmail&logoColor=red)  rr0900890@gmail.com and ranazain3431@gmail.com
 
