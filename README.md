@@ -17,6 +17,7 @@ Hi there! Im a MERN Stack Developer with a passion for creating efficient and sc
 - **Other Technologies:** Supabase, Authentication, Rest APIs, Tailwind CSS, Bootstrap.
 
 ## Projects
+- [⚙ daily usage Tools website](https://tools-kitopia.vercel.app)
 - [🍿 Netflix-Clone](https://mrzain-netflix.vercel.app/sign-in)
 - [📝 Notes App](https://mrzain-nextjs-notes-app.vercel.app)
 - [☁ Weather App](https://mrzain-weatherapp.netlify.app)
