@@ -2,7 +2,7 @@
 
 Hi there! Im a MERN Stack Developer with a passion for creating efficient and scalable web applications. I'm currently pursuing my graduation at GC University Faisalabad from 2021 to 2025.
 
-- 🌱 I’m currently learning React Native (App Development)
+- 🌱 I’m currently learning React Native (App Development) & Appwrite (Backend as a service)
 - 💬 Ask me about anything related to MERN Stack Development, Next.js, or web development in general.
 - 😄 Pronouns: He/Him
 
@@ -13,16 +13,8 @@ Hi there! Im a MERN Stack Developer with a passion for creating efficient and sc
 ## 🛠 Skills
 - **Frontend:** HTML, CSS, JavaScript, React, Next.js
 - **Backend:** Node.js, Express.js, Next.js
-- **Database:** MongoDB, Supabase
-- **Other Technologies:** Supabase, Authentication, Rest APIs, Tailwind CSS, Bootstrap.
-
-## Projects
-- [⚙ daily usage Tools website](https://tools-kitopia.vercel.app)
-- [🍿 Netflix-Clone](https://mrzain-netflix.vercel.app/sign-in)
-- [📝 Notes App](https://mrzain-nextjs-notes-app.vercel.app)
-- [☁ Weather App](https://mrzain-weatherapp.netlify.app)
-- [🤳 CV maker Website](https://mrzain-cvmaker.netlify.app)
-- [📒 JS Todo List](https://mrzain-todo.netlify.app)
+- **Database:** MongoDB,
+- **Other Technologies:** Appwrite, Authentication, Rest APIs, Tailwind CSS, Bootstrap.
 
 ## Web Development Passion
   I'm passionate about various aspects of web development, including:
