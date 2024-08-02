@@ -1,23 +1,23 @@
 # I'm Muhammad Zain Ul Iman 👋  
 
-Hi there! Im a MERN Stack Developer with a passion for creating efficient and scalable web applications. I'm currently pursuing my graduation at GC University Faisalabad from 2021 to 2025.
+Hi there! Im a Full Stack Developer with a passion for creating efficient and scalable applications. I'm currently pursuing my graduation at GC University Faisalabad.
 
-- 🌱 I’m currently learning React Native (App Development) & Appwrite (Backend as a service)
-- 💬 Ask me about anything related to MERN Stack Development, Next.js, or web development in general.
+- 🌱 I’m currently learning React Native (App Development).
+- 💬 Ask me about anything related to Full Stack Development.
 - 😄 Pronouns: He/Him
 
 ## Experience
-- 💼 2+ years of experience in MERN Stack Development
+- 💼 2+ years of experience in Full Stack Development
 - 🚀 Graduated from GC University Faisalabad in 2025
 
 ## 🛠 Skills
 - **Frontend:** HTML, CSS, JavaScript, React, Next.js
 - **Backend:** Node.js, Express.js, Next.js
-- **Database:** MongoDB,
-- **Other Technologies:** Appwrite, Authentication, Rest APIs, Tailwind CSS, Bootstrap.
+- **Database:** MongoDB, Postgresql
+- **Other Technologies:** Appwrite, Authentication, Rest APIs, Tailwind CSS, Bootstrap, Docker etc.
 
-## Web Development Passion
-  I'm passionate about various aspects of web development, including:
+## Development Passion
+  I'm passionate about various aspects of development, including:
   - **UI/UX Design:** Creating visually appealing and user-friendly interfaces.
   - **Performance Optimization:** Improving website speed and responsiveness.
   - **Responsive Design:** Ensuring a seamless experience across various devices.
