@@ -33,7 +33,7 @@ Feel free to reach out to me through any of the following:
 ![Email](https://img.shields.io/badge/-white?style=for-the-badge&logo=gmail&logoColor=red) ranazain3431@gmail.com
 
 
-[![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mr-zain-34457b259)
+[![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-zain-ul-iman)
 
 
 [![Facebook](https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100074734494279)
