@@ -11,7 +11,7 @@ I hold a **BS in Computer Science from Government College University Faisalabad 
 ## 🚀 About Me
 
 - 💻 **3+ years** of professional Full-Stack Development experience
-- 🎓 **BS Computer Science — GCUF, 2025**
+- 🎓 **BS Computer Science - GCUF, 2025**
 - ⚡ Specialized in **MERN, PERN & Full-Stack JavaScript/TypeScript**
 - 🌐 Experienced with **React.js, Next.js, Node.js & Express.js**
 - 🗄️ Experienced with **MongoDB, PostgreSQL, Supabase, Drizzle ORM & Sequelize**
